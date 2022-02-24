@@ -1,1 +1,3 @@
 # PRT-project
+
+!(poster.jpg)

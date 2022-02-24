@@ -1,3 +1,3 @@
 # PRT-project
 
-!(poster.jpg)
+![Presentation Poster](poster.jpg)
